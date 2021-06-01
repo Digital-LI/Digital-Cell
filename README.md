@@ -29,7 +29,37 @@ Virtual Cell
 系统设计师、架构师
 
 
+---
 
+An evidence-based digital cell model
+
+where
+when
+who
+
+relationship
+
+taxonomy
+
+organ
+cell
+organelle
+
+variant
+gene
+isoform
+protein
+complex
+
+ecDNA
+non-coding RNA
+
+metabolite
+
+
+开发一套完备的工具和API，可继承性，可拓展性
+
+评价系统【点赞】
 
 
 
