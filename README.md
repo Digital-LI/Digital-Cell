@@ -39,11 +39,13 @@ who
 
 relationship
 
-taxonomy
+taxonomy ontology
 
 organ
 cell
 organelle
+
+primary cell or cell line
 
 variant
 gene
