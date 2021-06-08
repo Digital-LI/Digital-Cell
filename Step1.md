@@ -33,6 +33,8 @@
 - Digestive System
 - Male and Female Reproductive Systems
 
+## organgenesis
+
 
 
 ---
@@ -205,3 +207,32 @@ HSCR这么好的data你都不屑一顾，那请问你今后能搞到什么更好
 data在我手上，怎么玩，怎么探索是我自己的事，哈哈，你Elly管得着吗？
 
 生物世界里，宏观与微观的惊人相似！
+
+为什么一个转录因子可以有这么多靶基因？
+
+
+
+
+
+分子生物学语言设计
+
+关系
+
+- associate
+
+- correlate
+
+- bind
+- interact
+- regulate
+
+中心法则
+
+- transcribe
+- translate
+- modify
+
+
+
+biological process
+
